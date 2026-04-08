@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: raw
+    database: ecommerce_dev   # catalog
+    schema: raw
+
+    tables:
+      - name: customers
+      - name: orders
+      - name: order_items
+      - name: products
+      - name: order_payments
+      - name: order_reviews

@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Customer dimension with SCD Type 2 tracking"
+
+  - name: fact_orders_enriched
+    description: "Gold layer fact table for Power BI reporting"
