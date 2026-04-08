@@ -176,6 +176,23 @@ dbt docs serve
 
 ---
 
+## dbt
+
+![Dashboard](images/dbt_screenshot.png)
+
+## dbt fact table's lineage
+
+![Lineage](images/dbt_fact_lineage.png)
+
+## Databricks
+
+![Dashboard](images/databricks_screenshot.png)
+
+## Power BI Dashboard
+
+![Lineage](images/powerBI_dashboard.png)
+
+
 ## Notes
 
 * dbt Core and Databricks Community Edition were used intentionally to keep the project fully open-source and accessible
